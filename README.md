@@ -30,3 +30,5 @@ odd/even parity chekc and checksum methods maybe be interfered when data transmi
 
 
 Nowadays, we use CRC in Ethernet/ Data compression/ Video encode /Disk read & write, because its high speed computation and it is easy to desgin in hardware circuit. It is not occur the condition which like odd/even parity check and checksum fatal problem we mention.
+============================================================
+
