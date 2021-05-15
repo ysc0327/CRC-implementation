@@ -6,12 +6,14 @@ CRC theorem and implementation
 History :
 ------------------------------------------------------------
 A complete data frame :
-   header(frame head) + data + parity bit + frame tail
+
+ header(frame head) + data + parity bit + frame tail
      
      
 Old method:
 
   1. odd/even parity check : 
+       
        transmitted data "1" number is odd --> parity bit = 1   
       
         ex: 
