@@ -1,10 +1,7 @@
 # CRC-implementation
 CRC theorem and implementation
 
-
-
 # History
-
 A complete data frame :  
          header(frame head) + data + parity bit + frame tail
          
@@ -27,9 +24,5 @@ Old method:
 
 odd/even parity chekc and checksum methods maybe be interfered when data transmits at high speed, and they can't detect error like ours example.  Nowadays, we use CRC in Ethernet/ Data compression/ Video encode /Disk read & write, because its high speed computation and it is easy to desgin in hardware circuit. It is not occur the condition which like odd/even parity check and checksum fatal problem we mention.
 
-============================================================
-
-CRC theorem and computation:
-------------------------------------------------------------
-
+# CRC theorem and computation:
   1. 
