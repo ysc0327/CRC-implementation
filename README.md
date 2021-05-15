@@ -33,3 +33,7 @@ Nowadays, we use CRC in Ethernet/ Data compression/ Video encode /Disk read & wr
 
 ============================================================
 
+CRC theorem and computation:
+------------------------------------------------------------
+
+  1. 
