@@ -3,7 +3,8 @@ CRC theorem and implementation
 
 # History
 A complete data frame :  
-         1.header(frame head) + data + parity bit + frame tail
+
+header(frame head) + data + parity bit + frame tail
          
 + Old method:
 
