@@ -1,9 +1,9 @@
 # CRC-implementation
 CRC theorem and implementation
 
-------------------------------------------------------------
 
-History :
+
+#History :
 ------------------------------------------------------------
 A complete data frame :
 
