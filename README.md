@@ -7,7 +7,7 @@ A complete data frame :
          
 Old method:
 
-  1. odd/even parity check : 
+  + odd/even parity check : 
        
        transmitted data "1" number is odd --> parity bit = 1   
       
@@ -15,7 +15,7 @@ Old method:
           transmit data : 00010011   parity bit : 1  --> 000100111
           receive  data : 00100011   parity bit : 1  --> 001000110 (wrong data but it can't be detect when real condtion)
         
-  2. checksum
+  +checksum
       
         ex:
           transmit data : 01 10 08 20 (Decimal)  checksum = 39 (Decimal)
