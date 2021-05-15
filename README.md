@@ -5,7 +5,7 @@ CRC theorem and implementation
 A complete data frame :  
          header(frame head) + data + parity bit + frame tail
          
-Old method:
++Old method:
 
   1.odd/even parity check : 
        
