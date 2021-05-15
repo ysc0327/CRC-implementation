@@ -4,7 +4,7 @@ CRC theorem and implementation
 # History
 A complete data frame :  
 
-header(frame head) + data + parity bit + frame tail
+Header(frame head) + Data + parity bit + Frame tail
          
 + Old method:
 
